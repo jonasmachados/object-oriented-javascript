@@ -19,7 +19,7 @@ available in each one.</p>
   <li>Still in currentAccount, make the type 'current account' by default;</li>
   <li>Create a child class called AccountSavings that inherits all parameters of AccountBanking;</li>
   <li>Create a child class called universityAccount that inherits all parameters from ContaBancaria;</li>
-	<li>Make the universityAccount withdrawal method only be able to withdraw amounts smaller than 500$<li>
+  <li>Make the universityAccount withdrawal method only be able to withdraw amounts smaller than 500$</li>
 </ul>
 <br>
 
